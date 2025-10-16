@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.19.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "navigation-menu",
+    "libraryId": "229c88fa-df8b-4661-8fcf-3fa4b5e33d22",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "navigation-menu",
+    "solutionShortDescription": "navigation-menu description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "navigation-menu-client-side-solution",
+    "id": "229c88fa-df8b-4661-8fcf-3fa4b5e33d22",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "navigation-menu description"
+      },
+      "longDescription": {
+        "default": "navigation-menu description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "navigation-menu Feature",
+        "description": "The feature that activates elements of the navigation-menu solution.",
+        "id": "84f1ee8d-1685-4986-bd2e-3b608fe782bc",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/navigation-menu.sppkg"
+  }
+}
